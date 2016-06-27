@@ -1,3 +1,13 @@
+apertium-oc-ca (1.0.6~r60158-1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * debian/control:
+    + Fixed dependencies.
+    + Use debhelper 9.
+  * Cleanup debian/rules.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Jun 2016 16:45:26 +0530
+
 apertium-oc-ca (1.0.6~r60158-1) trusty; urgency=low
 
   [ Tino Didriksen ]
